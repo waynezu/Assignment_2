@@ -1,0 +1,2 @@
+List of Text Editors
+1)Gedit
